@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Catstacks</string>
+
+    <string name="preferences_key">CatstacksPref</string>
+    <string name="default_high_score">0</string>
+    <string name="saved_high_score">High_Score</string>
+    <string name="saved_mute_value">Mute_Value</string>
+
+    <string name="game_over_ad">ca-app-pub-1875663346570689/8218384453</string>
+    <string name="interstitial_fullscreen_ad">ca-app-pub-1875663346570689/2869854858</string>
+</resources>
